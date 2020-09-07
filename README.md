@@ -30,7 +30,7 @@ The following steps to setup are.
 * Makemigrations using 'python manage.py makemigrations bookmark'
 * Then apply migrations using 'python manage.py migrate'
 * Create super user to using 'python manage.py createsuperuser', follow the cli for admin credentials.
-* Runserver server usring 'python manage.py runserver'
+* Runserver server using 'python manage.py runserver'
 * Access the app's admin panel using 127.0.0.1:8000/admin
 
  CREATE CUSTOMERS

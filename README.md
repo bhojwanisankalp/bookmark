@@ -60,3 +60,4 @@ The following steps to setup are.
     * title
     * lat , long, radius. Note: For location based filter all these three params are required
     * start_date, end_date Note: For date range based both of these two params are required in format "YYYY-MM-DD"
+    * sort_by, This parameter can be passed to sort the order of response. Default is customer_id
